@@ -1,9 +1,9 @@
-- 👋 Hi, I’m @orcamajo
-- 👀 I’m interested in IaC and automation
-- 🌱 I’m currently learning terraform
-- 💞️ I’m looking to collaborate on terraform for AWS as I am an Azure engineer who would like to learn some AWS
-- 📫 You can contact me at gh.nullify997@passinbox.com
-- 😄 Pronouns: he/him
+- Hi, I’m @orcamajo
+- I’m interested in IaC and automation
+- I’m currently learning terraform and Python
+- I’m looking to collaborate on terraform for AWS as I am an Azure engineer who would like to learn some AWS
+- You can contact me at gh.nullify997@passinbox.com
+- Pronouns: he/him
 
 
 <!---
